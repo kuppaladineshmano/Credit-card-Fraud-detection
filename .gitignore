@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.h5
+# Data and models
+data/RAVDESS/
+models/audio_emotion_model.h5
+temp_audio.wav
+temp_upload.wav
+
+# VS Code
+.vscode/

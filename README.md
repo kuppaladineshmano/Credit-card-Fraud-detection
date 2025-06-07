@@ -33,7 +33,7 @@ The project uses the "Credit Card Fraud Detection" dataset from Kaggle. You can 
     ```
 
 4.  **Download the dataset:**
-    -   Download the `creditcard.csv` file from the Kaggle link above and place it in the `Credit card fraud detection/` directory.
+    -   Download the `creditcard.csv` file from the Kaggle link above and place it in the project's root directory.
 
 5.  **Run the Flask app:**
     ```bash

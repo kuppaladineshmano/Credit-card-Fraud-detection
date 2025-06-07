@@ -8,7 +8,7 @@ from imblearn.over_sampling import SMOTE
 app = Flask(__name__)
 
 # Load the dataset
-data = pd.read_csv('Credit card fraud detection/creditcard.csv')
+data = pd.read_csv('creditcard.csv')
 
 # Preprocessing
 # Drop time as it is not relevant for prediction

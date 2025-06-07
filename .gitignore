@@ -7,12 +7,14 @@ __pycache__/
 env/
 venv/
 *.env
-.h5
+
 # Data and models
-data/RAVDESS/
-models/audio_emotion_model.h5
-temp_audio.wav
-temp_upload.wav
+data/
+models/
+*.csv
+!creditcard.csv
+*.pkl
 
 # VS Code
 .vscode/
+instance/
